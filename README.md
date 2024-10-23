@@ -1,6 +1,7 @@
 # OpenMenu
 This is an open source iCloud OpenMenu code that I wrote awhile ago, this uses MITM proxy instead of Fiddler proxy. This no longer works due to an apple patch, if anyone wants to fix it? I would appreciate it.
 
+NOTE: THIS CODE DOES NOT WORK ANYMORE (APPLE PATCHED THE ORIGINAL METHOD AND I HAVE NO TIME TO PLAY AROUND TO FIGURE OUT HOW TO FIX IT)
 
 Buy me a coffee (Paypal) : https://www.paypal.com/donate/?hosted_button_id=3YV2BWQRN6YF8
 
